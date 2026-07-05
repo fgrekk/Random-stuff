@@ -15,7 +15,7 @@
 1. ```hw2``` - про Линейную регрессию.
 2. ```Грек_Фёдор_ДЗ_PINN_final.ipynb``` - PINN.
 3. ```homework-practice-04-dl-grek.ipynb``` - PINN и CNN. Accuracy CNN - 70%. Да слабо, я знаю.
-
+4. ```hw5, hw6``` - деревья и бустинг соотвественно
 ## Pres
 
 L-BFGS
